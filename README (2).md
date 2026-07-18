@@ -1,11 +1,6 @@
 # 🎣 CodeAlpha_PhishingAwareness
 
 <p align="center">
-  <b>An interactive Phishing Awareness Training presentation</b><br>
-  Built as part of the <b>CodeAlpha Cyber Security Internship — Task 2</b>
-</p>
-
-<p align="center">
   🛡️ Recognize the bait. Protect the catch. 🛡️
 </p>
 
