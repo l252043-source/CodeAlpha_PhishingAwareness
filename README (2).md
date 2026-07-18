@@ -1,11 +1,5 @@
 # 🎣 CodeAlpha_PhishingAwareness
 
-<p align="center">
-  🛡️ Recognize the bait. Protect the catch. 🛡️
-</p>
-
----
-
 ## 📌 About This Project
 
 Phishing is responsible for the majority of cyberattacks worldwide. This training module breaks down **how phishing attacks work**, **how to spot them**, and **how to defend against them** — using clear visuals, real-world examples, and an interactive self-test quiz.
